@@ -1,0 +1,39 @@
+# Залежності
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+# Виробничі файли
+/dist
+/build
+
+# Файли середовища
+.env
+.env.local
+.env.*.local
+
+# Логи
+*.log
+
+# Тимчасові файли
+.DS_Store
+Thumbs.db
+
+# Файли редакторів
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Файли покриття тестами
+/coverage
+
+# Кеш npm
+.npm
+
+# Кеш Yarn
+.yarn-cache
+.yarn-integrity
+
+# Файли TypeScript
+*.tsbuildinfo
